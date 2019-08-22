@@ -5,7 +5,7 @@ params:
   palette: orange
   header:
     title: Azimuth
-    logo_img: images/logo.png
+    logo_img: "/v1566485361/azimuth-hugo-forestry/logo_sd5ctx.svg"
     has_nav: true
     menu:
       actions:
