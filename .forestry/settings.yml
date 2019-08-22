@@ -60,7 +60,7 @@ sections:
   templates:
   - post
 upload_dir: azimuth-hugo-forestry
-public_path: ''
+public_path: https://res.cloudinary.com/maxgoldhouse/image/upload
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
