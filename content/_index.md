@@ -12,8 +12,6 @@ sections:
   actions:
   - label: What do you need to know
     url: https://www.maxgoldhouse.com
-  - label: Learn More
-    url: "/features"
 - type: featuresblock
   template: featuresblock
   section_id: features
@@ -26,7 +24,7 @@ sections:
   - title: The Best Feature of Your Services
     content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
       luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
-    image: images/feature1.png
+    image: https://res.cloudinary.com/maxgoldhouse/image/upload/v1570530676/04-0587/3c.jpg
     actions:
     - label: Learn More
       url: "/features"
