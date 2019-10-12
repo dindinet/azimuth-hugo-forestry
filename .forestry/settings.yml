@@ -59,7 +59,7 @@ sections:
   match: "**/*"
   templates:
   - post
-upload_dir: azimuth-hugo-forestry
+upload_dir: ''
 public_path: https://res.cloudinary.com/maxgoldhouse/image/upload
 front_matter_path: ''
 use_front_matter_path: 
